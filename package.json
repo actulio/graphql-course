@@ -1,0 +1,13 @@
+{
+  "name": "graphql-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "author": "actulio <actulio@gmail.com>",
+  "license": "MIT"
+}
